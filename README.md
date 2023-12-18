@@ -6,6 +6,7 @@ Required:
  - Python 3.9, Terraform, VSCode installed
  - AWS CLI install and profile configure
  - Edit aws credential information in terraform.tfvars (important)
+ - Update URL in lambda_funtion.py
 
 Provision infrastructure in AWS with terraform:
 ```
